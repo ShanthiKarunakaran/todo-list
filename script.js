@@ -109,6 +109,7 @@
                 // Create and append the delete button
                 const deleteButton = document.createElement('button');
                 deleteButton.textContent = 'Delete';
+                deleteButton.className = 'delete-button';
                 li.appendChild(deleteButton); //append button to the li
                 todoList.appendChild(li);
 
