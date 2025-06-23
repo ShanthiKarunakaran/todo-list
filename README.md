@@ -36,7 +36,7 @@ A simple and interactive TODO List application to help you manage your tasks eff
 
 ## References
 
-- For Event bubbling https://blog.webdevsimplified.com/2022-01/event-listeners/
+- For Event Stop propagtion https://blog.webdevsimplified.com/2022-01/event-listeners/
 - 
 ## Contributing
 
