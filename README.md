@@ -34,6 +34,10 @@ A simple and interactive TODO List application to help you manage your tasks eff
 3. Edit or delete tasks using the respective buttons.
 4. Your tasks will remain saved between sessions.
 
+## References
+
+- For Event bubbling https://blog.webdevsimplified.com/2022-01/event-listeners/
+- 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
