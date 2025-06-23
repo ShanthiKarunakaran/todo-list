@@ -2,7 +2,7 @@
 
 A simple and interactive TODO List application to help you manage your tasks efficiently.
 
-#Hosted
+## Hosted
 You can find this page hosted here https://shanthikarunakaran.github.io/todo-list/
 
 ## Features
